@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: radial-gradient(red blue violet)
+  background-image: radial-gradient(circle at center red 0, blue violet 100%)
 }
 
 main {
